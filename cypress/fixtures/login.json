@@ -1,0 +1,12 @@
+{
+  "inputs":{
+    "username": "QA@email.com",
+    "password": "QAFramework",
+    "info":"Blue Top"
+  },
+
+  "elements":{
+    "username": "[data-qa='login-email']",
+    "password": "[data-qa='login-password']"
+  }
+}
